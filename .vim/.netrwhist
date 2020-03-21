@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/pica/h1/dahlo/.dahlo-home'
+let g:netrw_dirhist_2='/gulo/glob/dahlo/work/testarea/smrt/reboot/SMRTAnalysis/install/smrtanalysis_2.3.0.140936/redist/apache-tomcat-7.0.23/logs'
+let g:netrw_dirhist_3='/pica/sw/share/project_storage_stats'
+let g:netrw_dirhist_4='/gulo/glob/dahlo/testarea/bravedoor/utils'
+let g:netrw_dirhist_5='/crex/proj/sllstore2017094/nobackup/dahlo/testarea/uppmax_new_web/_sass/foundation/components'
+let g:netrw_dirhist_6='/sw/bioinfo/CAT/mf'
+let g:netrw_dirhist_7='/crex/proj/sllstore2017091/CellProfiler/uppmax_pipelines'
